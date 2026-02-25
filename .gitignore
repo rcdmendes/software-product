@@ -1,0 +1,20 @@
+# Dependências do Node
+node_modules/
+
+# Configurações sensíveis — NUNCA versionar
+.env
+acs/Token GitHub.txt
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
