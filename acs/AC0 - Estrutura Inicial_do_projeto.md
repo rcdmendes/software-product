@@ -181,7 +181,7 @@ DB_PORT=1433
     "type": "git",
     "url": "git+https://github.com/rcdmendes/software-product.git"
   },
-  "author": "Buselli Rogerio",
+  "author": "Mendes Ricardo",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
@@ -2800,7 +2800,7 @@ software-product/
 
 ## Autor
 
-Buselli Rogerio — Faculdade Impacta — ADS 2026
+Mendes Ricardo — Faculdade Impacta — ADS 2026
 ```
 
 ---
