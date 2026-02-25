@@ -1,5 +1,3 @@
-# AC0 - Estrutura Inicial do Projeto
-
 # AC0 — Estrutura Inicial do Projeto
 
 **Projeto:** TrocaOleo — Sistema de Gerenciamento de Oficina
